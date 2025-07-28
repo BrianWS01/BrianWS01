@@ -9,7 +9,7 @@
 ### 📊 GitHub Stats
 
 <img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=BrianWS01&show_icons=true&theme=dark"/>
-<img alt="top langs" align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianWS01&layout=compact&theme=dark"/>
+<img alt="top langs" align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianWS01&layout=compact&theme=dark"/>
 
 
 <br clear="both"/>
