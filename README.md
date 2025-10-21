@@ -1,6 +1,5 @@
 ## 👋 Olá, eu sou o Brian Wood Silva
 
-🎓 Estudante de **Engenharia de Software** na **USF - Universidade São Francisco**  
 💻 Desenvolvedor Front-end focado em interfaces funcionais, responsivas e com boa experiência de usuário.  
 🚀 Em busca de oportunidades para crescer profissionalmente e contribuir com projetos desafiadores.
 
